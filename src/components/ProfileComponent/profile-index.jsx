@@ -3,7 +3,7 @@ import './profile.css';
 export default function Profile() {
   return (
     <>
-    <h2 className="profile-title">Perfil<hr /></h2>
+    <h2 className="profile-title">Perfil</h2>
       <p className="profile-text">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dolor labore fugit inventore, consequuntur numquam reprehenderit modi aliquam recusandae aperiam aspernatur maiores fugiat ipsam. Laboriosam labore alias facilis minima tempore?
         Libero, optio. Animi sapiente quod eligendi aliquam ad consequuntur ab dolorum facere corporis illum odio voluptates incidunt quo veniam adipisci, rem corrupti non pariatur explicabo debitis autem iste, eius nam!
