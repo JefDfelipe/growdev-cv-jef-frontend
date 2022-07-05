@@ -14,10 +14,22 @@
 }
 
 .header-info {
-  width: 80%;
+  width: 90%;
   display: flex;
   justify-content: space-between;
   font-family: arial;
+}
+
+.header-info .phone {
+  width: 17%;
+}
+
+.header-info .address {
+  width: 50%;
+}
+
+.header-info .email {
+  width: 20%;
 }
 
 .photo {
