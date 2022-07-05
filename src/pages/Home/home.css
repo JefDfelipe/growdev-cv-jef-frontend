@@ -1,0 +1,30 @@
+.page {
+  height: 100%;
+  width: 90%;
+  max-width:800px;
+  background-color: #84a8d8;
+  padding-top: 80px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  width: 470px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  text-align:justify;
+}
+
+.container {
+  display: flex;
+  justify-content:space-between
+}
