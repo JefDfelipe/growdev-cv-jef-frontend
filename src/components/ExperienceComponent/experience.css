@@ -4,4 +4,10 @@
 
 .experience-description {
   font-family: arial;
+  margin-bottom:50px;
+}
+
+.work-period{
+  margin: 0%;
+  margin-bottom: 30px;
 }

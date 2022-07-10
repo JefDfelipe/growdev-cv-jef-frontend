@@ -1,6 +1,20 @@
+import { useState, useEffect } from 'react';
+import Api from "../../services/Api"
+import axios from 'axios';
+
 import './info.css'
 
 export default function Info() {
+  // const [post, setPost] = useState(null);
+
+  // useEffect(() => {
+  //   axios.get(Api.baseURL).then((response) => {
+  //     setPost(response.data);
+  //   });
+  // }, []);
+
+  // if (!post) return null;
+
   return (
     <header className="info">
       <div title="Profile Picture" class="photo"></div>
